@@ -161,3 +161,5 @@ cython_debug/
 
 #Folders
 data
+
+.DS_Store
